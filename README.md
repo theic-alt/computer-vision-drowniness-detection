@@ -31,6 +31,8 @@ Image source: "https://github.com/theic-alt/computer-vision-drowniness-detection
 
 ● The eye is open if Eye Aspect ratio is greater than threshold. (Around 0.3)
 
+Image source: "https://github.com/theic-alt/computer-vision-drowniness-detection/blob/main/eye.PNG"
+
 
 
 ● A blink is supposed to last 200-300 milliseconds.
