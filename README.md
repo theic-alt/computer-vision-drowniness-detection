@@ -23,19 +23,19 @@
 
 ● The pre-trained facial landmark detector inside the dlib library is used to estimate  the location of 68 (x, y)-coordinates that map to facial structures on the face. The 68  landmark output is shown in the figure below. However, we utilised the 70 landmark  model.
 
-<img src=
+
 
 ● We then calculate the aspect ratio to check whether eyes are opened or closed.
 
 ● The eye is open if Eye Aspect ratio is greater than threshold. (Around 0.3)
 
-<img src=
+
 
 ● A blink is supposed to last 200-300 milliseconds.
 
 ● A drowsy blink would last for  800-900  ms. 
 
-<img src=
+
 
 ## Execution
 To run the code, run 
