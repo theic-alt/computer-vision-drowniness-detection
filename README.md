@@ -23,6 +23,8 @@
 
 ● The pre-trained facial landmark detector inside the dlib library is used to estimate  the location of 68 (x, y)-coordinates that map to facial structures on the face. The 68  landmark output is shown in the figure below. However, we utilised the 70 landmark  model.
 
+Image source: "https://github.com/theic-alt/computer-vision-drowniness-detection/blob/main/eye_ascept_ratio.PNG"
+
 
 
 ● We then calculate the aspect ratio to check whether eyes are opened or closed.
